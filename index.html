@@ -1,0 +1,40 @@
+
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <title>시네박스</title>
+  <script src="https://code.jquery.com/jquery-latest.min.js"></script>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<h1>CineBox</h1>
+
+<div>
+  <button class="category-btn" data-category="now_playing">현재 상영 영화</button>
+  <button class="category-btn" data-category="upcoming">개봉 예정 영화</button>
+  <button class="category-btn" data-category="top_rated">높은 평점 영화</button>
+</div>
+
+<div id="search-box">
+  <input type="text" id="search-input" placeholder="영화 제목 검색">
+  <button id="search-btn">검색</button>
+</div>
+
+<div id="movie-list"></div>
+
+<div id="pagination">
+  <button id="prev-btn">이전</button>
+  <span id="page-numbers"></span>
+  <button id="next-btn">다음</button>
+</div>
+
+<div class="modal" id="movie-modal">
+  <div class="modal-content" id="modal-content"></div>
+</div>
+
+<script src="config.js"></script>
+<script src="script.js"></script>
+</body>
+</html>
