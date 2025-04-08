@@ -68,39 +68,11 @@ function fetchMovieDetail(id) {
 
 ---
 
-## 🔐 config.js (API 설정)
-
-```javascript
-// TMDB API 키
-const API_KEY = '🔑 여기에 당신의 TMDB API 키를 입력하세요';
-```
-
-> 💬 **Tip:** 실제 배포 시에는 `.env`를 통해 보안 강화하세요!
-
----
-
 ## 🛠 사용 기술
 
 - `HTML` + `CSS` + `JavaScript`
 - `jQuery` for Ajax & 이벤트 처리
 - [TMDB API](https://www.themoviedb.org/documentation/api)로 데이터 제공
-
----
-
-## 🚀 시작해보기
-
-1. TMDB에서 API Key를 발급받습니다.
-2. `config.js`에 키를 넣습니다.
-3. 브라우저에서 `index.html`을 실행하면 완료!
-
----
-
-## 📌 TODO (기능 확장 아이디어)
-
-- ✅ 반응형 UI (모바일 지원)
-- ⏳ 로딩 스피너 추가
-- 🗂 장르 필터링
-- 💬 리뷰 및 댓글 기능
 
 ---
 
