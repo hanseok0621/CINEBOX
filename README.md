@@ -74,8 +74,3 @@ function fetchMovieDetail(id) {
   });
 }
 ```
-
-
-## ❤️ 한 줄 요약
-
-> **"CineBox는 영화 팬을 위한 가장 직관적인 미니 영화 백과입니다."**
