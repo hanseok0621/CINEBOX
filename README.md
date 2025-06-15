@@ -16,11 +16,6 @@
 - `jQuery` for Ajax & 이벤트 처리
 - [TMDB API](https://www.themoviedb.org/documentation/api)로 데이터 제공
 
-## 🖼️ 스크린샷
-![image](https://github.com/user-attachments/assets/25636b2e-9082-4a37-b1a9-5df70746ca92)
-![image](https://github.com/user-attachments/assets/202bac6c-381c-4308-9276-a46bbf552265)
-
-
 ## 🖼 인터페이스 구성
 
 - 🎬 **카테고리 버튼**: 원하는 장르의 영화 리스트로 즉시 이동  
@@ -37,6 +32,11 @@
 | 🔍 영화 검색 | 제목으로 빠르게 원하는 영화 검색 |
 | 🧾 상세 정보 모달 | 감독, 출연진, 줄거리까지 한 번에 확인 |
 | 📄 페이지네이션 | 5개 단위의 깔끔한 페이지 구성 |
+
+## 🖼️ 스크린샷
+![image](https://github.com/user-attachments/assets/25636b2e-9082-4a37-b1a9-5df70746ca92)
+![image](https://github.com/user-attachments/assets/202bac6c-381c-4308-9276-a46bbf552265)
+
 
 ## 📁 프로젝트 구조
 
